@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on developing mobile apps with Flutter
+- 🔭 I’m currently working on developing mobile apps with Flutter & web apps with Django/Rails along with React
 - Take a look at [my portfolio](https://mrkajetanp.github.io/)
 - 📫 How to reach me: kajetan.puchalski@tuta.io
 
