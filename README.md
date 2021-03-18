@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there!
 
 - 💼 Part Time Undergraduate Software Engineer at Arm
 - 🔭 I’m currently learning about the Linux kernel, Arm architecture & the Rust programming language
