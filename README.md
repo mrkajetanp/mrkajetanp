@@ -1,8 +1,6 @@
 ### Hello there!
 
-- 💼 Part Time Undergraduate Software Engineer at Arm
-- 🎓 Software Engineering student at the University of Glasgow
-- 🔭 I’m currently learning about the Linux kernel, Arm architecture & the Rust programming language
+- 💼 Software Engineer at Arm
 - 📫 How to reach me: kajetan.puchalski@tuta.io or kajetan.puchalski@arm.com
 
 <!--
