@@ -1,6 +1,7 @@
 ### Hello there!
 
 - 💼 Software Engineer at Arm
+- Linux Kernel & Rust Programming Language
 - 📫 How to reach me: kajetan.puchalski@tuta.io or kajetan.puchalski@arm.com
 
 <!--
