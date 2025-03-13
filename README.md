@@ -1,7 +1,7 @@
 ### Hello there!
 
 - 💼 Software Engineer at Arm
-- Rust Programming Language & the Linux Kernel
+- LLVM flang, rustc & the Linux kernel
 - 📫 How to reach me: kajetan.puchalski@kajetanp.co.uk or kajetan.puchalski@arm.com
 
 <!--
