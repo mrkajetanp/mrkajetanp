@@ -2,7 +2,7 @@
 
 - 💼 Software Engineer at Arm
 - LLVM flang, rustc & the Linux kernel
-- 📫 How to reach me: kajetan.puchalski@kajetanp.co.uk or kajetan.puchalski@arm.com
+- 📫 How to reach me: kajetan.puchalski@tuta.io or kajetan.puchalski@arm.com
 
 <!--
 **mrkajetanp/mrkajetanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
