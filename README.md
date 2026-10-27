@@ -1,7 +1,7 @@
 ### Hello there!
 
 - 💼 Software Engineer at Arm
-- FreeBSD, LLVM flang & rustc
+- FreeBSD, the Linux kernel, LLVM flang & rustc
 - 📫 How to reach me: kajetan.puchalski@tuta.io or kajetan.puchalski@arm.com
 
 <!--
